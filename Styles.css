@@ -1,0 +1,24 @@
+.farsan-regular {
+  font-family: "Farsan", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #245326;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+#presentation {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}

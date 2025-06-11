@@ -17,8 +17,47 @@ header {
     text-align: center;
 }
 
+#titre {
+    font-size: 100px;
+    color: #817f7f;
+}
+
+.soustitre {
+    font-size: 30px;
+    color: #817f7f;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    margin: 10px 0;
+    gap: 20px;
+    list-style-type: none;
+    color: #817f7f;
+    font-size: 20px;
+    overflow: hidden;
+}
+
 #presentation {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
+}
+
+div {
+    background-color: #817f7f;
+
+}
+
+div h2 {
+    font-size: 40px;
+    color: #245326;
+    text-align: center;
+}
+
+div p {
+    font-size: 23px;
+    text-align: center;
+    color: #245326;
+    margin: 20px 0 20px 0;
 }
